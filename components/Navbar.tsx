@@ -33,7 +33,7 @@ export default function Navbar() {
         <div className="flex flex-1 items-center justify-end space-x-2 md:justify-end">
           <nav className="flex items-center space-x-6 text-sm font-medium">
             <a
-              href="#projects"
+              href="https://drive.google.com/file/d/1bNqITJ00j6EZz0XfX3OfP7YdnA32ay5c/view?usp=drive_link"
               onClick={() => setActive("projects")}
               className={`transition-colors hover:text-foreground/100 ${
                 active === "projects" ? "text-foreground" : "text-foreground/60"
