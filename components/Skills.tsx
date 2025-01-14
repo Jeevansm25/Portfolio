@@ -50,6 +50,14 @@ const skills = [
       category: "Core Computer Science Concepts",
       technologies: ["DBMS", "OOPS", "Computer Networks", "Operating Systems"],
     },
+    {
+      category: "AI and Machine Learning",
+      technologies: ["ChatGPT Integration",
+        "AI-assisted Development",
+        "Prompt Engineering",
+        "AI-enhanced Testing",],
+    },
+
   ];
   
 export default function Skills() {
