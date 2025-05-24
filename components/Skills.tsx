@@ -30,17 +30,8 @@ const skills = [
       technologies: [
         "WebSockets",
         "Rate Limiting",
-        "Load Balancing",
-        "Singleton Patterns",
-        "Pub/Sub",
-        "Vertical and Horizontal Scaling",
-        "Auto Scaling",
-        "Database Normalization",
+        "Load Balancing"
       ],
-    },
-    {
-      category: "Advanced Topics",
-      technologies: ["OpenAPI Specification", "DDoS Protection", "WebRTC", "gRPC"],
     },
     {
       category: "Monitoring and Logging",
@@ -50,13 +41,7 @@ const skills = [
       category: "Core Computer Science Concepts",
       technologies: ["DBMS", "OOPS", "Computer Networks", "Operating Systems"],
     },
-    {
-      category: "AI and Machine Learning",
-      technologies: ["ChatGPT Integration",
-        "AI-assisted Development",
-        "Prompt Engineering",
-        "AI-enhanced Testing",],
-    },
+    
 
   ];
   
